@@ -1,0 +1,22 @@
+Lista Wagner
+
+
+1.  Html, Head, body
+
+2.  Existe não ordenada e ordenada, sendo Ul com não ordenada e Ol como ordenada.
+
+3. Não, Html é uma linguagem de marcação, ela não pode fazer cálculos, não tem condições com if, loops como for, while ou manipular dados.
+
+4. Para alterar o título deve usar a tag <title></title>
+
+6. Dois exemplos de input type: email e search
+
+7.  Teve mudanças em elementos semânticos como o header, footer. Formulários como email, date, range, etc
+
+8. Serve para definir a versão do html e o tipo de documento que está sendo utilizado.
+
+9. Vai de h1 até h6, tem importância na hierarquia e na diferença de tamanho.
+
+10. Tudo aquilo que for ser exibido para o usuário, como imagem, textos, devem ser colocados em tags como <head> e <body>
+
+11. Utilizando o get e post. Get é usado para operações seguras e que não alteram dados no servidor, o post serve para dados que demandam um pouco mais de segurança como email e senha.
